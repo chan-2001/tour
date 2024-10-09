@@ -1,0 +1,31 @@
+*
+{
+    top: 0;
+    bottom: 0;
+}
+.a1{
+    margin-left: 45%;
+    margin-top: 5%;
+
+}
+.b1{
+    margin-left: 37%;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    width: 344px;
+    background:transparent;
+    
+    
+    
+}
+
+.a5 button{
+    background-color:white;
+}
+.a6 p p1{
+    color: blue;
+}
+body{
+    ba

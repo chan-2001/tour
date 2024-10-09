@@ -1,0 +1,63 @@
+body{
+    background-image: url('tour.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    
+}
+.A3{
+    margin-left: 10%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.c1 a{
+    text-decoration: none;
+    font-size: x-large;
+    padding-right: 8%;
+    margin-top: -10%;
+}
+.c1{
+    display: flex;
+    margin-left: 60%;
+}
+.b1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 35%;
+}
+.d1 a{
+    margin-left: 39%;
+    margin-top: -10%;
+    text-decoration: none;
+}
+.g2 a{
+    text-decoration: none;
+}
+.d1 img{
+      margin-left: 35%;
+      width: 21%;
+      border: 1px solid black;
+      box-shadow: 0 10px 20px black;
+      display: inline-block;
+}
+.g1{
+    margin-left: 39%;
+    margin-right: 50%;
+
+}
+.d2{
+    display: flex;
+    display: inline-block;
+    padding: 5%;
+
+
+}
+.d2 a{
+    text-decoration: none;
+}
+.d2 h2{
+    margin-left: 20%;
+}
+.d2 img{
+    border: 1px solid black;
+    box-shadow: 0 10px 20px black;
+}
+
